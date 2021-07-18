@@ -13,3 +13,5 @@ wiiiin256
     pl = pull --rebase
     cin = commit --amend --no-edit
     ll = log --graph --all --pretty=format:'%Cred%h %Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+
+win增加了这里的代码
